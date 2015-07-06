@@ -1,5 +1,6 @@
 # MiniAdventure
 Basic 1984 Text-Based Adventure (CLI)
+(c)opyright 2015 by 3F, LLC.
 
 This is adventure program #1 from the book, which as far as adventure
 games goes, is very crude at best, but it incorporates some of the
